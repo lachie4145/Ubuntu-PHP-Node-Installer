@@ -1,6 +1,11 @@
 # Ubuntu PHP, Composer, Laravel & Node, NPM Installer Script
 
-This script installs phpup php 8.2.3, nvm node v18.14.2
+## Install
+```bash
+sudo apt install wget
+wget https://raw.githubusercontent.com/lachie4145/Ubuntu-PHP-Node-Installer/main/installer.sh 
+bash ./installer.sh 
+```
 
 ## PHP
 - PHP Version Management | Name: PhpUp | https://github.com/masan4444/phpup
